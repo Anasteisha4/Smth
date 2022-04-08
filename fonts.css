@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'roboto', sans-serif;
+  src: url('./fonts/Roboto/Roboto-Bold.ttf');
+  src: url('./fonts/Roboto/Roboto-Bold.ttf') format('ttf'), 
+       url('./fonts/Roboto/Roboto-Bold.woff2') format('woff2'),                  
+       url('./fonts/Roboto/Roboto-Bold.woff') format('woff'),                                
+       url('./fonts/Roboto/Roboto-Bold.eot') format('eot');                                      
+  font-weight: 700;
+  font-style: bold;
+}
+@font-face {
+  font-family: 'roboto', sans-serif;
+  src: url('./fonts/Roboto/Roboto-Black.ttf');
+  src: url('./fonts/Roboto/Roboto-Black.ttf') format('ttf'), 
+       url('./fonts/Roboto/Roboto-Black.woff2') format('woff2'),                  
+       url('./fonts/Roboto/Roboto-BlackItalic.woff') format('woff'),                                
+       url('./fonts/Roboto/Roboto-BlackItalic.eot') format('eot');                                      
+  font-weight: 500;
+  font-style: normal;
+}
